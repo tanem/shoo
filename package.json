@@ -1,0 +1,36 @@
+{
+  "name": "shoo",
+  "version": "1.0.0",
+  "description": "Shoos JavaScript to the browser.",
+  "main": "./lib/shoo.js",
+  "bin": {
+    "shoo": "./bin/shoo"
+  },
+  "preferGlobal": true,
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "pipe",
+    "send",
+    "browser"
+  ],
+  "author": "Tane Morgan <tane.morgan@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanem/shoo.git"
+  },
+  "homepage": "https://github.com/tanem/shoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanem/shoo/issues"
+  },
+  "dependencies": {
+    "concat-stream": "^1.5.0",
+    "opener": "^1.4.1"
+  }
+}
