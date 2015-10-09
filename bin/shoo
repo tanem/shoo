@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var concat = require('concat-stream');
+var shoo = require('../lib/shoo');
+
+process.stdin.pipe(concat({ encoding: 'string' }, shoo));
