@@ -12,7 +12,7 @@ Inspired by [hughsk](https://github.com/hughsk)'s awesome little [scat](https://
 1. Reads JavaScript from `stdin`
 2. Wraps it in [`shoo.html`](lib/shoo.html)
 3. Starts a server which serves `shoo.html` on port `3000` (default)
-4. [Opens](https://github.com/domenic/opener) `http://localhost:3000` so you can see your JavaScript running in a browser
+4. [Opens](https://github.com/domenic/opener) `http://localhost:3000` so you can see your JavaScript running in a browser.
 
 ## Installation
 
@@ -22,7 +22,7 @@ $ npm i -g shoo
 
 ## Usage
 
-To use the default server port:
+To use the default server port (`3000`):
 
 ```
 $ cat foo.js | shoo
