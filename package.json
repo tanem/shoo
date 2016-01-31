@@ -1,6 +1,6 @@
 {
   "name": "shoo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shoos JavaScript to the browser.",
   "main": "./lib/shoo.js",
   "bin": {
