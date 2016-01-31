@@ -1,7 +1,8 @@
 # shoo
 
-[![NPM version](https://badge.fury.io/js/shoo.svg)](http://badge.fury.io/js/shoo)
-[![Dependency status](https://david-dm.org/tanem/shoo.svg)](https://david-dm.org/tanem/shoo)
+[![npm version](https://img.shields.io/npm/v/shoo.svg?style=flat-square)](https://www.npmjs.com/package/shoo)
+[![npm downloads](https://img.shields.io/npm/dm/shoo.svg?style=flat-square)](https://www.npmjs.com/package/shoo)
+[![dependency status](https://david-dm.org/tanem/shoo.svg?style=flat-square)](https://david-dm.org/tanem/shoo)
 
 [Shoo](http://dictionary.reference.com/browse/shoo) JavaScript to the browser.
 
