@@ -1,5 +1,7 @@
 # shoo
 
+> **Unmaintained.** This project is no longer maintained and the repository is archived. The npm package is deprecated.
+
 [![npm version](https://img.shields.io/npm/v/shoo.svg?style=flat-square)](https://www.npmjs.com/package/shoo)
 [![npm downloads](https://img.shields.io/npm/dm/shoo.svg?style=flat-square)](https://www.npmjs.com/package/shoo)
 [![dependency status](https://david-dm.org/tanem/shoo.svg?style=flat-square)](https://david-dm.org/tanem/shoo)
